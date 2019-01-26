@@ -15,7 +15,7 @@ public class RPS {
    }
    
    public static void start(String name) {
-      System.out.println("Okay, " + name + ". Let's begin.");
+      System.out.println("Okay, " + name + ". Let's begin!");
       System.out.println("Choose your weapon (R, P or S)");
       
    } 
